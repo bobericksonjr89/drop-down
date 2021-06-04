@@ -1,8 +1,13 @@
 {
-  "name": "drop-down",
-  "version": "1.0.0",
+  "name": "@bobericksonjr89/drop-down",
+  "version": "1.0.02",
   "description": "drop-down menu",
   "main": "index.js",
+  "keywords": [
+    "menu",
+    "drop-down",
+    "drop down"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,12 +16,9 @@
     "url": "git+https://github.com/bobericksonjr89/drop-down.git"
   },
   "author": "Robert Erickson",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bobericksonjr89/drop-down/issues"
   },
-  "homepage": "https://github.com/bobericksonjr89/drop-down#readme",
-  "devDependencies": {
-    "eslint": "^7.27.0"
-  }
+  "homepage": "https://github.com/bobericksonjr89/drop-down#readme"
 }
